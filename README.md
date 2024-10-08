@@ -1,6 +1,6 @@
 # Juego-Arduino-OLED-Space
 
-Este proyecto es un juego espacial simple desarrollado para Arduino, que utiliza una pantalla OLED para la visualización. El jugador controla una nave espacial y debe disparar a los enemigos que descienden desde la parte superior de la pantalla.
+Este proyecto es un juego simple desarrollado para Arduino, que utiliza una pantalla OLED para la visualización. El jugador controla una nave espacial y debe disparar a los enemigos que descienden desde la parte superior de la pantalla.
 
 ## Descripción del Proyecto
 
@@ -29,10 +29,11 @@ Para construir este proyecto, necesitarás los siguientes componentes:
 
 Este repositorio contiene:
 
-1. Código fuente del juego (`juego_espacial_arduino.ino`)
-2. Diagrama de conexiones para montaje en protoboard (`diagrama_protoboard.png`)
-3. Diagrama del circuito para montaje final (`diagrama_circuito.png`)
-4. Este archivo README.md
+1. Código fuente del juego (`juego_con_pantalla_oled.ino`)
+2. Diagrama de conexiones para montaje en protoboard (`Tablero experimental.png`)
+3. Diagrama del circuito para montaje final (`Schematic_Juego_Nave_Arduino_oled_2024-10-07.png`)
+4. Diagrama del circuito para montaje final (`Schematic_Juego_Nave_Arduino_oled_2024-10-07.pdf`)
+5. Este archivo README.md
 
 ## Sobre el Código
 
